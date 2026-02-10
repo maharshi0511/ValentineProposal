@@ -30,7 +30,7 @@ const App = () => {
       "Are you sure?",
       "Maybe try again?",
       "Think again!",
-      "Loser :(",
+      "Please say Yes :(",
     ];
     // Randomly select a rejection message
     let randomIndex;
